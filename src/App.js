@@ -1,9 +1,9 @@
-import React, { Component } from "react";
-import logo from "./logo.svg";
-import "./App.css";
-import Hello from "./Hello";
-import Summary from "./components/Summary";
-import Search from "./components/Search";
+import React, { Component } from 'react';
+import logo from './logo.svg';
+import './App.css';
+import Hello from './Hello';
+import Summary from './components/Summary';
+import Search from './components/Search';
 
 class App extends Component {
   render() {

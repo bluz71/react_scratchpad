@@ -1,6 +1,6 @@
-import React from "react";
+import React from 'react';
 
-const Summary = ({ title="Summary" }) => {
+const Summary = ({ title='Summary' }) => {
   return (
     <div>
       <h2>{title}</h2>
